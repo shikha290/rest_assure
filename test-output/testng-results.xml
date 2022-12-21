@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-21T09:41:54Z" name="Default suite" finished-at="2022-12-21T09:42:02Z" duration-ms="8019">
+    <groups>
+    </groups>
+    <test started-at="2022-12-21T09:41:54Z" name="Default test" finished-at="2022-12-21T09:42:02Z" duration-ms="8019">
+      <class name="rest_assure.rest1">
+        <test-method signature="tc2_get()[pri:0, instance:rest_assure.rest1@558bdf1f]" started-at="2022-12-21T15:11:54Z" name="tc2_get" finished-at="2022-12-21T15:12:00Z" duration-ms="5630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2_get -->
+        <test-method signature="tc4_post()[pri:0, instance:rest_assure.rest1@558bdf1f]" started-at="2022-12-21T15:12:00Z" name="tc4_post" finished-at="2022-12-21T15:12:00Z" duration-ms="601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4_post -->
+        <test-method signature="tc5_put()[pri:0, instance:rest_assure.rest1@558bdf1f]" started-at="2022-12-21T15:12:00Z" name="tc5_put" finished-at="2022-12-21T15:12:01Z" duration-ms="476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5_put -->
+        <test-method signature="tc6_patch()[pri:0, instance:rest_assure.rest1@558bdf1f]" started-at="2022-12-21T15:12:01Z" name="tc6_patch" finished-at="2022-12-21T15:12:01Z" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6_patch -->
+        <test-method signature="tc8_post()[pri:0, instance:rest_assure.rest1@558bdf1f]" started-at="2022-12-21T15:12:01Z" name="tc8_post" finished-at="2022-12-21T15:12:02Z" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8_post -->
+        <test-method signature="tc9_post()[pri:0, instance:rest_assure.rest1@558bdf1f]" started-at="2022-12-21T15:12:02Z" name="tc9_post" finished-at="2022-12-21T15:12:02Z" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9_post -->
+      </class> <!-- rest_assure.rest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
